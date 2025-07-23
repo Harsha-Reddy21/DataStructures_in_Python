@@ -1,5 +1,5 @@
-students = ["Alice", "Bob", "Charlie", "David", "Eva"]
-scores = [95, 82, 91, 88, 97]
+students = ["Alice", "Bob", "Carol", "David", "Eve"]
+scores = [85, 92, 78, 88, 95]
 
 
 print("Numbered list of students:")
